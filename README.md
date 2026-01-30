@@ -4,7 +4,7 @@ Este repositório contém o projeto desenvolvido durante a Imersão Dados com Py
 
 Durante a imersão, foi desenvolvido um dashboard interativo, no qual são apresentados diversos gráficos e análises de dados a partir de uma planilha previamente disponibilizada no curso.
 
-🚀 Objetivo do Projeto
+# 🚀 Objetivo do Projeto
 
 O principal objetivo deste projeto foi:
 
@@ -16,7 +16,7 @@ Criar visualizações gráficas claras e informativas
 
 Praticar o uso de bibliotecas amplamente utilizadas no mercado
 
-🛠️ Tecnologias e Bibliotecas Utilizadas
+# 🛠️ Tecnologias e Bibliotecas Utilizadas
 
 Python
 
@@ -30,7 +30,7 @@ Pyplot – visualização de dados
 
 PyCountry – padronização e manipulação de dados por país
 
-📈 Dashboard e Visualizações
+# 📈 Dashboard e Visualizações
 
 Os gráficos presentes no dashboard foram desenvolvidos a partir de uma planilha de dados fornecida durante o curso, permitindo:
 
@@ -42,7 +42,7 @@ Extração de insights relevantes
 
 As visualizações ajudam a tornar os dados mais compreensíveis e facilitam a interpretação das informações.
 
-📚 Aprendizados
+# 📚 Aprendizados
 
 Durante a imersão, foi possível:
 
@@ -54,7 +54,7 @@ Melhorar a construção de gráficos e visualizações
 
 Aplicar conceitos de forma prática em um projeto real
 
-📌 Sobre o Curso
+# 📌 Sobre o Curso
 
 Curso: Imersão Dados com Python
 
