@@ -8,56 +8,56 @@ Durante a imersão, foi desenvolvido um dashboard interativo, no qual são apres
 
 O principal objetivo deste projeto foi:
 
-Explorar dados reais por meio do Python
+-Explorar dados reais por meio do Python
 
-Desenvolver habilidades em análise de dados
+-Desenvolver habilidades em análise de dados
 
-Criar visualizações gráficas claras e informativas
+-Criar visualizações gráficas claras e informativas
 
-Praticar o uso de bibliotecas amplamente utilizadas no mercado
+-Praticar o uso de bibliotecas amplamente utilizadas no mercado
 
 # 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-Python
+-Python
 
-Pandas – manipulação e análise de dados
+-Pandas – manipulação e análise de dados
 
-NumPy – operações numéricas
+-NumPy – operações numéricas
 
-Matplotlib – criação de gráficos
+-Matplotlib – criação de gráficos
 
-Pyplot – visualização de dados
+-Pyplot – visualização de dados
 
-PyCountry – padronização e manipulação de dados por país
+-PyCountry – padronização e manipulação de dados por país
 
 # 📈 Dashboard e Visualizações
 
 Os gráficos presentes no dashboard foram desenvolvidos a partir de uma planilha de dados fornecida durante o curso, permitindo:
 
-Análise exploratória dos dados
+-Análise exploratória dos dados
 
-Comparações visuais
+-Comparações visuais
 
-Extração de insights relevantes
+-Extração de insights relevantes
 
-As visualizações ajudam a tornar os dados mais compreensíveis e facilitam a interpretação das informações.
+-As visualizações ajudam a tornar os dados mais compreensíveis e facilitam a interpretação das informações.
 
 # 📚 Aprendizados
 
 Durante a imersão, foi possível:
 
-Aprender novas funcionalidades e propriedades do Python
+-Aprender novas funcionalidades e propriedades do Python
 
-Aprofundar conhecimentos em análise de dados
+-Aprofundar conhecimentos em análise de dados
 
-Melhorar a construção de gráficos e visualizações
+-Melhorar a construção de gráficos e visualizações
 
-Aplicar conceitos de forma prática em um projeto real
+-Aplicar conceitos de forma prática em um projeto real
 
 # 📌 Sobre o Curso
 
-Curso: Imersão Dados com Python
+-Curso: Imersão Dados com Python
 
-Plataforma: Alura
+-Plataforma: Alura
 
-Duração: 4 dias (intensivo)
+-Duração: 4 dias (intensivo)
